@@ -7,6 +7,8 @@ Factors such length of the title, body text, including special words and/or char
 
 To fetch data, I have used the package [praw](https://praw.readthedocs.io/en/stable/) to download data from reddit API. 
 
+### You can see the report here: [Link](RedditAnalysis.ipynb)
+
 ## Requirements: 
 - praw
 - pandas
